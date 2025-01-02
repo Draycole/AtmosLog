@@ -23,9 +23,6 @@ AtmosLog is a temperature and humidity monitoring system that I developed using 
 2. Upload the code to the Arduino board.
 3. Monitor live data through the Bluetooth terminal or visualize it using the Python script.
 
-## Schematic Diagram
-![Schematic Diagram](Circuit Schematic Diagram.png)
-
 ## Demo
 - [Project Demo Video](https://youtu.be/ADbAQRFhFjg?list=TLGG9dOkwP3eu8cwMjAxMjAyNQ)
 
