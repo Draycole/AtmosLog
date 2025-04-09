@@ -16,6 +16,28 @@ AtmosLog is a temperature and humidity monitoring system I developed using an Ar
 - SDHC 16GB Micro SD Card
 - Samsung Micro SD Card Adapter
 
+## Component Pinout
+LCD Screen
+ - Serial Clock - Pin 13
+ - Serial Data Line (SDA) - Pin 11
+ - RS/DC - Pin 8
+ - Reset - Pin 9
+ - Chip Select - Pin 10
+
+SD Card Module
+ - Master Out Slave In (MOSI) - Pin 11
+ - Serial Clock - Pin 13
+ - Master In Slave Out (MISO) - Pin 12
+ - Chip Select - Pin 6
+
+HC05 Bluetooth Module
+ - RXD - Pin 3
+ - TXD - Pin 5
+
+DHT 11 Temp & Humidity Sensor
+ - Data - Pin 2
+  
+
 ## Circuit Schematic Diagram
 ![ATMOSLOG Circuit Schematic](https://github.com/user-attachments/assets/ba732f60-9805-419e-ac2b-183c2d2098c8)
 
