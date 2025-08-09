@@ -40,6 +40,8 @@ DHT 11 Temp & Humidity Sensor
 
 ## Circuit Schematic Diagram
 ![ATMOSLOG Circuit Schematic](https://github.com/user-attachments/assets/ba732f60-9805-419e-ac2b-183c2d2098c8)
+An interactive version of the project's schematic is here. I developed this using CirkitDesigner <sup>TM</sup> <br>
+[ATLAS Schematic](https://app.cirkitdesigner.com/project/08989311-1a96-4825-9ae7-eb9f2e0b62dc)
 
 ## Project Flowchart Diagram
 ![Flowchart (1)](https://github.com/user-attachments/assets/af508ebf-18af-49c7-b62a-dce14c438639)
