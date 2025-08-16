@@ -1,4 +1,4 @@
-LCD Screen
+**LCD Screen**
 SCK - Pin 13
 SDA - Pin 11
 RS/DC - Pin 8
@@ -20,3 +20,4 @@ TXD - Pin 5
 
 DHT 11 Temp & Humidity Sensor
 Data - Pin 2
+
