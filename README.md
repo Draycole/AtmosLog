@@ -1,4 +1,4 @@
-AtmosLog is a temperature and humidity monitoring system I developed using an Arduino UNO as the primary microprocessor. It measured the temperature and humoidity of the environment and logs the data onto an SD card, displays it on an LCD screen, and sends updates via Bluetooth. It also sends the data to a python script running that allows a graph of the temperature and humidity to be plotted in real-time.
+AtmosLog is a temperature and humidity monitoring system I developed using an Arduino UNO as the primary microprocessor. It measured the temperature and humidity of the environment and logs the data onto an SD card, displays it on an LCD screen, and sends updates via Bluetooth. It also sends the data to a python script running that allows a graph of the temperature and humidity to be plotted in real-time.
 
 ## Features
 - Measures temperature and humidity every 2 seconds.
