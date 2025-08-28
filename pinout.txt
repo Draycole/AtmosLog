@@ -21,4 +21,3 @@ TXD - Pin 5
 DHT 11 Temp & Humidity Sensor
 Data - Pin 2
 
-
