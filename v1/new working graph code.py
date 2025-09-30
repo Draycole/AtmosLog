@@ -1,6 +1,16 @@
-import serial
+#import serial
+#import matplotlib
+#matplotlib.use('TkAgg')
+#import matplotlib.pyplot as plt
+#from time import sleep
+
+import matplotlib
+matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
+import serial
+import serial.tools.list_ports
 from time import sleep
+import numpy as np
 
 
 ser = serial.Serial('COM6', 9600) 
@@ -18,8 +28,8 @@ while True:
         
         if "Temp" in line and "Humidity" in line:
             parts = line.split(", ")  # Split string by ", "
-            temp = float(parts[0].split(":")[1].strip())  # Extract temperature
-            humidity = float(parts[1].split(":")[1].strip())  # Extract humidity
+            temp = float(parts[0].split(":")[1].strip().replace("°C", ""))  # Extract temperature
+            humidity = float(parts[1].split(":")[1].strip().replace("%", ""))  # Extract humidity
             
             temp_data.append(temp)
             humidity_data.append(humidity)
