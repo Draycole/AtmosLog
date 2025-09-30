@@ -1,0 +1,20 @@
+Power Connections:
+All VCC pins → 5V
+All GND pins → GND
+
+Component Connections:
+
+DHT11:
+Pin 1 (VCC) → 5V
+Pin 2 (DATA) → Pin 2 + 10kΩ to 5V
+Pin 4 (GND) → GND
+
+RGB LED (Common Cathode):
+Longest leg (GND) → GND
+Red leg → 220Ω → Pin 4
+Green leg → 220Ω → Pin 7  
+Blue leg → 220Ω → Pin A1
+
+Buzzer:
++ → Pin A2
+- → GND
