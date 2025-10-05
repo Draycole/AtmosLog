@@ -19,7 +19,7 @@ This repository documents the **evolution of AtmosLog**, showing each version’
 ## 📹 Demo Videos
 - **V1 Demo** → [YouTube Link](https://youtu.be/H2S4WT-yNo0?list=TLGGglOZo_7CHj8zMDA5MjAyNQ)
 - **V1 Webpage** → [Page on my Portfolio](https://munachimsohenry.wixsite.com/my-site/copy-of-project-5-pyrosafe-monitor)
-- **V2 Demo** → [YouTube Link]  
+- **V2 Demo** → [YouTube Link](https://youtu.be/Djv5J1638cQ)  
 
 ---
 
