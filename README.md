@@ -12,7 +12,7 @@ This repository documents the **evolution of AtmosLog**, showing each version’
 | Version | Date | Key Features | Link |
 |---------|------|--------------|------|
 | V1 | Mar 2025 | First prototype: DHT11 sensor, TFT display, SD logging, Bluetooth streaming | [v1](./v1) |
-| V2 | Sept 2025 | Refined prototype: better logging & display, organized demo. | [v2](./v2) |
+| V2 | Sept 2025 | Refined prototype: better logging & display, organized demo, added fire check & probaility | [v2](./v2) |
 
 ---
 
