@@ -24,8 +24,8 @@ This repository documents the **evolution of AtmosLog**, showing each version’
 ---
 
 ## 📂 Repository Structure
-/AtmosLog
-/v1 → First prototype
+AtmosLog  
+/v1 → First prototype  
 /v2 → Refined prototype
 
 ---
